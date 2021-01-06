@@ -6,7 +6,7 @@
 # Webphotos --- this photo is in the website
 ![webphotos](https://i.ebayimg.com/images/g/HaUAAOSwo8hfHs-v/s-l500.jpg)
 
-#[links to BB8](https://static.wikia.nocookie.net/starwars/images/5/5a/RollingWithBB8.jpg/revision/latest?cb=20200902194536) --- this word is link to the website
+#links to [BB8](https://static.wikia.nocookie.net/starwars/images/5/5a/RollingWithBB8.jpg/revision/latest?cb=20200902194536) --- this word is link to the website
 
 
 # TESTING
